@@ -1,3 +1,0 @@
-aiofiles==23.2.1
-Requests==2.31.0
-urllib3==2.2.1
